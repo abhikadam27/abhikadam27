@@ -1,7 +1,12 @@
-I am a data science enthusiast
-interested to work as a Data scientist
+I am a data science enthusiast.
+
+Interested to work as a Data scientist and explore my knowledge.
+
+
 completed PG Data science course at Datatrained platform 
 completed 6 months internship as a data scientist at FlipRobo Technologies.
+
+
 My Gmail ID is - abhinandankadam24@gmail.com
 
 <!---
