@@ -36,8 +36,6 @@ You can click the Preview link to take a look at your changes.
 
 - 👨‍💻 Life Hack: Learn new tech and share what you have learned.
 
-- 📄 Know more about me [Portfolio](srivathsant.netlify.app)
-
 - 🇮🇳 I'm from INDIA.
 
 - ⚡ My hobbies are drawing, cycling and listening music 🎶 😆.
