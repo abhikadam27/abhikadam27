@@ -12,33 +12,17 @@ You can click the Preview link to take a look at your changes.
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=subramanyaks&label=Profile%20views&color=0e75b6&style=flat" alt="subramanyaks"/> </p>
 -->
 
-
-
 ---
 
 ### About Myself:
 
 - 👨‍🎓 I studied  <a href="https://www.jce.ac.in/">Jain College Of Engineering </a>, Belgaum, Karnataka, India.
 
-- 🧠 Currently working as a **Data Scientist** at <a href="https://www.turingminds.ai/">TuringMinds.ai </a>
-
-- 👨‍💻 All of my projects are available at [Projects](https://github.com/abhikadam27?tab=repositories)
-
+- 🧠  Worked as a **Data Scientist** at <a href="https://www.turingminds.ai/">TuringMinds.ai </a> (April 2022 - April 2023)
+- 🧠  Worked as a **Intern Data Scientist** at <a href="https://www.fliprobo.com/">FlipRObo </a> (Jun 2021 - Dec 2021)
 - 📫 How to reach me <a href="mailto:abhinandankadam24@gmail.com">**abhinandankadam24@gmail.com**</a>
-
 - 😄 Pronouns: He/Him
-
 - 🥅 2023 Goals: Contribute more to Open Source projects.
-
-- 👀 I love to explore new technologies
-
-- 🌱 I am pasionate about Business.
-
-- 👨‍💻 Life Hack: Learn new tech and share what you have learned.
-
-- 🇮🇳 I'm from INDIA.
-
-- ⚡ My hobbies are drawing, cycling and listening music 🎶 😆.
 
 ---
 ### Resume and Portofolio
