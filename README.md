@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 ---
 ### Resume and Portofolio
 
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/19Oq46HsiU3c6yhRL25ctNDVweYst0_40/view?usp=share_link)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1TnePfw5t3nLvRnO2r1vwmpl61WJWZ4ea/view?usp=share_link)
 
 ---
 
