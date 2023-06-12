@@ -9,8 +9,9 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-<h1 align="center">Hi 👋, I am <a href="https://github.com/abhikadam27"> Abhinandan Kadam </a></h1>
-<h3 align="center">Data Scientist from Karnataka, INDIA <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=30 height=30></h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Abhinandan Kadam</h1>
+<h3 align="center">Engineer |  Data Science Enthusiast 
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=30 height=30></h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=subramanyaks&label=Profile%20views&color=0e75b6&style=flat" alt="subramanyaks"/> </p>
 -->
@@ -19,13 +20,24 @@ You can click the Preview link to take a look at your changes.
 
 ### About Myself:
 
-- 👨‍🎓 I studied  <a href="https://www.jce.ac.in/">Jain College Of Engineering </a>, Belgaum, Karnataka, India.
+- 👨‍🎓 Graduated Engineer from  <a href="https://www.jce.ac.in/">Jain College Of Engineering </a>, Belgaum, Karnataka, India.
 
-- 🧠  Worked as a **Data Scientist** at <a href="https://www.turingminds.ai/">TuringMinds.ai </a> (April 2022 - April 2023)
+- 🧠  Worked as a **Data Science Trainee** at <a href="https://www.turingminds.ai/">TuringMinds.ai </a> (April 2022 - April 2023)
 - 🧠  Worked as a **Intern Data Scientist** at <a href="https://www.fliprobo.com/">FlipRObo </a> (Jun 2021 - Dec 2021)
-- 📫 How to reach me <a href="mailto:abhinandankadam24@gmail.com">**abhinandankadam24@gmail.com**</a>
+- 📫 Email address : <a href="mailto:abhinandankadam24@gmail.com">**abhinandankadam24@gmail.com**</a>
 - 😄 Pronouns: He/Him
 - 🥅 2023 Goals: Contribute more to Open Source projects.
+
+<br />
+<br />
+<hr>
+  <p align="center">
+ <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhikadam27&show_icons=true&locale=en&layout=compact" alt="abhikadam27" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhikadam27&show_icons=true&locale=en" alt="abhikadam27" width="410" /></p>
+
+<hr>
 
 ---
 ### Resume and Portofolio
