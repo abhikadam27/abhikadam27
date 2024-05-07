@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <h1 align="center">Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Abhinandan Kadam</h1>
-<h3 align="center">Engineer |  Data Science Enthusiast 
+<h3 align="center">Engineer |  Data Scieintist
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=30 height=30></h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=subramanyaks&label=Profile%20views&color=0e75b6&style=flat" alt="subramanyaks"/> </p>
